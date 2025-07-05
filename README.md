@@ -1,9 +1,6 @@
-# 📝 Todo List App – Frontend Assignment
+# 📝 Todo List App 
 
 A clean and responsive Todo List application built with **HTML**, **Bootstrap**, and **JavaScript (ES6)**. It interacts with the [DummyJSON API](https://dummyjson.com) to fetch, add, and simulate delete operations for tasks.
-
-This project is created as part of a **Frontend Developer Assignment**.
-
 ---
 
 ## Features
